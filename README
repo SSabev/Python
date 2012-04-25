@@ -1,1 +1,5 @@
-Some basic Python scripts I wrote while trying to learn a few things.
+ Some basic Python scripts I wrote while trying to learn a few things.           
+- Some basic sorting and searching                                              
+- Comparison of threading, multiprocessing.Process, parallel run and the multiprocessing.Pool
+- basic authentication script for the UofE keysurf service(present currently in all uni accommodation)
+- planning to add more basic sorting algorightms and a few scripts for creating an inverted index
