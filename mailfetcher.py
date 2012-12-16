@@ -25,7 +25,7 @@ class EMailWrapper(object):
         items = items[0].split()
         items.reverse()
         message_dict = {}
-        for id in items[:50]:
+        for id in items[:num]:
             msg_resp, data = self.fetcher.fetch(id, "(RFC822)")
             if msg_resp!='OK':
                 return "Problem retrieving mail!"
