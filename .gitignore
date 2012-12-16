@@ -1,0 +1,8 @@
+.DS_Store
+.*.swp
+.*.un~
+*.pdf
+list
+processes.py
+script.py
+image_scraper_spider.py

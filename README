@@ -1,5 +1,3 @@
- Some basic Python scripts I wrote while trying to learn a few things.           
-- Some basic sorting and searching                                              
-- Comparison of threading, multiprocessing.Process, parallel run and the multiprocessing.Pool
-- basic authentication script for the UofE keysurf service(present currently in all uni accommodation)
-- planning to add more basic sorting algorightms and a few scripts for creating an inverted index
+Python playground - tiny littler scripts doing nothing interesting. Probably the
+coolest out of them is the mailfetcher. Does a few cool things. Might incorporate
+it into a proper mail client later.
